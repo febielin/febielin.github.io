@@ -213,7 +213,7 @@ h1 {
 }
 
 .award-media {
-    height: 17vw;
+    height: 19vw;
 }
 
 .award-media div {
@@ -224,18 +224,6 @@ h1 {
     height: 15vw;
     width: auto;
 }
-
-.video-container {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    
-}
-
-.video-container video {
-    max-height: 100%; /* Make sure the video doesn't exceed the container's height */
-}
-
 
 .inv {
     flex-grow: 1;
@@ -689,4 +677,3 @@ figure {
 .contact-options div a:hover {
     color: black;
 }
-
